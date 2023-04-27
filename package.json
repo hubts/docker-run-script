@@ -1,0 +1,9 @@
+{
+    "name": "docker-run-script",
+    "version": "0.0.1",
+    "description": "A script to run my application on docker container based on package",
+    "main": "index.js",
+    "repository": "https://github.com/hubts/docker-run-script.git",
+    "author": "@hubts",
+    "license": "MIT"
+}
